@@ -1,11 +1,12 @@
-# 👋 Hi there, I'm Mohammed Azarudeen
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-azarudeen-h/)
-![image](https://github.com/user-attachments/assets/8ed4d581-8635-4816-8e47-d11748ba953a)
+![Image](https://github.com/user-attachments/assets/c869236e-444d-4b14-ba7e-cc909ab6d50a)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-azarudeen-h/)
 
 ## 🚀 Data Engineer | BI Developer | Data Enthusiast
 
-I'm a certified **Data Engineer** currently working at **Adastra**, with a career spanning **7+ years** across diverse roles—from **Quality Data Analyst at Amazon**, to **Tableau Developer at Experience.com**, and now diving deep into modern data ecosystems.
+I’m a certified Data Engineer currently with Adastra, bringing 6+ years of hands-on experience across data engineering, business intelligence, and analytics. My journey spans domains—starting at Amazon as a Quality Data Analyst, followed by a specialized role in Experience.com as a Tableau Developer, and now contributing to enterprise data transformation projects at Adastra.
+
+With strong command over SQL, Tableau, Power BI, Excel, and Big Data tools, I thrive at building scalable data pipelines, intuitive dashboards, and business-critical insights. My tech stack spans Hadoop, Spark, Hive, Sqoop, and cloud platforms like AWS, Azure, and GCP—giving me an edge in delivering end-to-end data solutions.
 
 ---
 
@@ -47,7 +48,7 @@ I'm a certified **Data Engineer** currently working at **Adastra**, with a caree
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-azarudeen-h/)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/your-profile) *(Add if available)*
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/hazarude/vizzes) 
 - 🌐 Portfolio Coming Soon!
 
 ---
@@ -58,7 +59,5 @@ I'm always upskilling and currently diving deeper into **Generative AI** and **C
 
 ---
 
-> 🧠 “Data is the new oil. But unlike oil, it’s renewable, reusable, and gets more valuable the more it’s used.”
 
----
 
