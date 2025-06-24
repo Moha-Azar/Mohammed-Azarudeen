@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Mohammed Azarudeen
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-azarudeen-h/)
 
 ## 🚀 Data Engineer | BI Developer | Data Enthusiast
 
